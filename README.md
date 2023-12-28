@@ -1,5 +1,7 @@
 # Data Scientist
 
+---
+
 #### Languages: Python (Pandas, Scipy, Numpy, Scikit-learn), SQL, R, Java, Pyspark, Git, Excel
 #### Data Visualization: Seaborn, Matplotlib, Plotly, Tableau
 #### Modeling: Regression, Classification, NLP, Neural Networks, Clustering
