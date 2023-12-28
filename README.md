@@ -4,11 +4,14 @@
 #### Data Visualization: Seaborn, Matplotlib, Plotly, Tableau
 #### Modeling: Regression, Classification, NLP, Neural Networks, Clustering
 
+<br>
 
 ## Education
 - Data Science Immersive Program | General Assembly (_March 2023 - June 2023_)								       		
 - IBM Software Engineer Pre-Apprenticeship	| Franklin Apprenticeships (_June 2022 - July 2022_)	 			        		
 - B.A., Mathematics and Philosophy | Yale University (_2009 - 2013_)
+
+<br>
 
 ## Experience 
 **Data Science Intern | Adobe (_June 2023 - September 2023_)**
@@ -17,6 +20,8 @@
 
 **Data Science Immersive Student (_March 2023 - June 2023_)**
 - Full time immersive student in the Data Science program that included over 400 hours of professional training over twelve weeks.
+
+<br>
 
 ## Projects
 ### Ames Housing Data
