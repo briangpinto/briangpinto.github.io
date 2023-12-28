@@ -50,4 +50,4 @@ Utilized clustering (KMeans, DBScan, KModes, KPrototypes) and inferential classi
 
 Utilized Librosa (audio analysis) package and created a multitude of models to accurately classify music by genre given one thousand, 30 sec samples of music audio divided into 10 genres.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Spectrogram](/assets/images/metal.00020_spectrogram.png)
