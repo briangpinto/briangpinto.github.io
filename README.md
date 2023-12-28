@@ -9,6 +9,9 @@
 <br>
 
 ## Education
+
+---
+
 - Data Science Immersive Program | General Assembly (_March 2023 - June 2023_)								       		
 - IBM Software Engineer Pre-Apprenticeship	| Franklin Apprenticeships (_June 2022 - July 2022_)	 			        		
 - B.A., Mathematics and Philosophy | Yale University (_2009 - 2013_)
@@ -16,6 +19,9 @@
 <br>
 
 ## Experience 
+
+---
+
 **Data Science Intern | Adobe (_June 2023 - September 2023_)**
 - UserDB : Created schema and code to build an automated user database on Databricks that extracts data from 3 different sources
 - User Segmentation : Defined behavioral personas for B2B product through rule based segmentation and machine learning clustering algorithms
@@ -26,6 +32,9 @@
 <br>
 
 ## Projects
+
+---
+
 ### Ames Housing Data
 [Project Link](https://github.com/briangpinto/Ames-Housing-Data)
 
