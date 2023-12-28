@@ -36,7 +36,7 @@ Created a variety of linear regression models to predict sales prices of homes g
 
 Scraped post data from 2 subreddits and utilized machine learning skills to build a variety of classification models to accurately determine origin of text.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Word Cloud](/assets/images/conspiracy_Word_Cloud.png)
 
 ### Examining Influential Factors on Poverty Status (Group Project)
 [Project Link](https://github.com/briangpinto/DSI-320-Group-Project)
