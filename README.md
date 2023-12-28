@@ -43,7 +43,7 @@ Scraped post data from 2 subreddits and utilized machine learning skills to buil
 
 Utilized clustering (KMeans, DBScan, KModes, KPrototypes) and inferential classification techniques (Logistic Regression, Random Forest Classifier, Gradient Boosting Classifier) to determine how specific factors influence Supplemental Poverty Measure (SPM) poverty likelihood.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Important Features](/assets/images/rf_top_10_features.png)
 
 ### Music Genre Classification
 [Project Link](https://github.com/briangpinto/Music-Genre-Classification)
