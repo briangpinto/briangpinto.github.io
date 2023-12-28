@@ -29,7 +29,7 @@
 
 Created a variety of linear regression models to predict sales prices of homes given a dataset with over 2000 observations and 70 variables.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Scatterplot](/assets/images/total_sqft_sale_price_scatter.png)
 
 ### Truth or Truth
 [Project Link](https://github.com/briangpinto/Truth-or-Truth)
