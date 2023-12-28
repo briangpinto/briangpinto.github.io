@@ -27,7 +27,7 @@ Created a variety of linear regression models to predict sales prices of homes g
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Truth or Truth
-[Project Link](https://github.com/briangpinto/Ames-Housing-Data](https://github.com/briangpinto/Truth-or-Truth)
+[Project Link](https://github.com/briangpinto/Truth-or-Truth)
 
 Scraped post data from 2 subreddits and utilized machine learning skills to build a variety of classification models to accurately determine origin of text.
 
@@ -41,7 +41,7 @@ Utilized clustering (KMeans, DBScan, KModes, KPrototypes) and inferential classi
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Music Genre Classification
-[Project Link](https://github.com/briangpinto/Music-Genre-Classification))
+[Project Link](https://github.com/briangpinto/Music-Genre-Classification)
 
 Utilized Librosa (audio analysis) package and created a multitude of models to accurately classify music by genre given one thousand, 30 sec samples of music audio divided into 10 genres.
 
