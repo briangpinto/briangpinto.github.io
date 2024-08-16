@@ -1,8 +1,8 @@
-# Data Scientist
+# Data Scientist & Software Engineer
 
 ---
 
-#### Languages: Python (Pandas, Scipy, Numpy, Scikit-learn), SQL, R, Java, Pyspark, Git, Excel
+#### Languages: Python (Pandas, Scipy, Numpy, Scikit-learn), SQL, R, Java, JavaScript, HTML, CSS, Git, Excel
 #### Data Visualization: Seaborn, Matplotlib, Plotly, Tableau
 #### Modeling: Regression, Classification, NLP, Neural Networks, Clustering
 
@@ -12,13 +12,13 @@
 
 ---
 
-- Data Science Immersive Program | General Assembly (_March 2023 - June 2023_)								       		
-- IBM Software Engineer Pre-Apprenticeship	| Franklin Apprenticeships (_June 2022 - July 2022_)	 			        		
+- Data Science Immersive Program | General Assembly (_March 2023 - June 2023_)
+- IBM Software Engineer Pre-Apprenticeship	| Franklin Apprenticeships (_June 2022 - July 2022_)
 - B.A., Mathematics and Philosophy | Yale University (_2009 - 2013_)
 
 <br>
 
-## Experience 
+## Experience
 
 ---
 
